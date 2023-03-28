@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_dir_cb7217f62dfe96cc7825f7c1e7f27f0a" xml:lang="en-US">
+<title>Program/Project/Buchgalter Directory Reference</title>
+<indexterm><primary>Program/Project/Buchgalter Directory Reference</primary></indexterm>
+<simplesect>
+    <title>Files    </title>
+        <itemizedlist>
+            <listitem><para>file <link linkend="__buchgalter_8cs">Buchgalter.cs</link></para>
+</listitem>
+            <listitem><para>file <link linkend="__buchgalter_form_8cs">BuchgalterForm.cs</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>

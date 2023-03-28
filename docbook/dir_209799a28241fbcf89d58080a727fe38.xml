@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_dir_209799a28241fbcf89d58080a727fe38" xml:lang="en-US">
+<title>Program/Project Directory Reference</title>
+<indexterm><primary>Program/Project Directory Reference</primary></indexterm>
+<simplesect>
+    <title>Directories    </title>
+        <itemizedlist>
+            <listitem><para>directory <link linkend="_dir_7cb56ead6865570a3a5efd80d7ad7848">Abonst</link></para>
+</listitem>
+            <listitem><para>directory <link linkend="_dir_cb7217f62dfe96cc7825f7c1e7f27f0a">Buchgalter</link></para>
+</listitem>
+            <listitem><para>directory <link linkend="_dir_a1d6812819495d072bee0ad2ef4097a3">Workers</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>
