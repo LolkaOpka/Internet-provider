@@ -11,7 +11,11 @@ namespace Project2
         int id_abonworker;
         string name;
         int id_zayavki;
-
+        void ChangeZayavka() { }
+        void AddZayavka() { }
+        void UpdateZayavka() { }
+        void DeleteZayavka() { }
+        void CreateOtchet() { }
         Abonst() { }
     }
 }
