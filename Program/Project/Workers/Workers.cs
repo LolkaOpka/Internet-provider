@@ -8,7 +8,7 @@ namespace Project2
 {
     internal class Workers
     {
-        int id_worker=0;
+        int id_worker;
         string name;
         int id_zayavki;
 
