@@ -12,7 +12,10 @@ namespace Project2
         string name;
         int id_workers;
 
-       
+        void ChangeOtchet() { }
+        void AddOtchet() { }
+        void UpdateOtchet() { }
+        void DeleteOtchet() { }
         Buchgalter() { }
     }
 }
