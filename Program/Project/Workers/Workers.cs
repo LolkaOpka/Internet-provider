@@ -12,7 +12,12 @@ namespace Project2
         string name;
         int id_zayavki;
 
-
+        void ChangeZayavka() { }
+        void AddClient() { }
+        void UpdateClient() { }
+        void DeleteClient() { }
+        void UpdateZayavka() { }
+        void CreateOtchet() { }
         Workers() { }
 
     }
