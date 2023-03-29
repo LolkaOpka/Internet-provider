@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//@autor Alexander Kovalenko
 namespace Project2
 {
     internal class Abonst
     {
+        int val = 35;
         int id_abonworker;
         string name;
         int id_zayavki;
