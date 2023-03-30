@@ -11,6 +11,5 @@ namespace Project2
         int id;
         int login;
         string pass;
-        FavoriteFood favorite_food;
     }
 }
